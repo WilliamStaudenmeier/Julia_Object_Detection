@@ -15,7 +15,7 @@ HTML, BODY {
 
 BODY {
   background-image:linear-gradient(to bottom right, rgb(0,0,0),rgb(0,100,100));
-  font: 16em/1 Arial;
+  font: 24em/1 Arial;
 }
 
 .text--line {
