@@ -14,7 +14,7 @@ HTML, BODY {
 }
 
 BODY {
-  background-image:linear-gradient(to bottom right, rgb(0,0,0),rgb(0,100,100));
+  background:white;
   font: 10em/1 Arial;
 }
 
