@@ -1,4 +1,4 @@
-# Simple application for Object Detection using Julia
+# Object Detection using Julia
 
 Requires Julia v1.10+. From the Julia REPL, type ] to enter the PKG REPL mode and run:
 
