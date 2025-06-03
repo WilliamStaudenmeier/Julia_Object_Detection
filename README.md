@@ -6,7 +6,7 @@ Requires Julia v1.10+. From the Julia REPL, type ] to enter the PKG REPL mode an
 
 To use CUDA accelleration, you will also need to add CUDA and cuDNN to your project and load both packages.
 
-# Loading and running an image
+## Loading and running an image
 
 ```using ObjectDetector, FileIO, ImageIO
 
