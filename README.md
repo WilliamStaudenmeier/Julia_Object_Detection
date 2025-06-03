@@ -1,6 +1,6 @@
 # Simple application for Object Detection using Julia
 
-Requires Julia v1.10+. From the Julia REPL, type ] to enter the Pkg REPL mode and run:
+Requires Julia v1.10+. From the Julia REPL, type ] to enter the PKG REPL mode and run:
 
 ```pkg> add ObjectDetector```
 
